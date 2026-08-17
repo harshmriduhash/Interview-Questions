@@ -1,1 +1,1 @@
-This repo will contain all the interview
+This repo will contain all the interview questions
