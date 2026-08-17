@@ -1,1 +1,1 @@
-This repo will contain all the interview questions, across the domain and tech 
+This repo will contain all the interview questions, across the domain and tech stacks
